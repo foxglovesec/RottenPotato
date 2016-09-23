@@ -1,0 +1,4 @@
+J:\derby\Potato_DERBYCON_EDITION_release_justbytes\SharpCifs\SharpCifs\Bin\Release\SharpCifs.dll
+J:\derby\Potato_DERBYCON_EDITION_release_justbytes\SharpCifs\SharpCifs\Bin\Release\SharpCifs.pdb
+J:\derby\Potato_DERBYCON_EDITION_release_justbytes\SharpCifs\SharpCifs\obj\Release\SharpCifs.dll
+J:\derby\Potato_DERBYCON_EDITION_release_justbytes\SharpCifs\SharpCifs\obj\Release\SharpCifs.pdb
