@@ -11,6 +11,8 @@ For a technical overview of this exploit see our blog post at https://foxglovese
 5. Run the binary from step.2
 6. impersonate_token "NT AUTHORITY\\SYSTEM"
 
+It is important to impersonate the token (or run list_tokens -u) quickly after runnning the binary. With the current implementation, the token seems to disappear shortly after the binary is run. It is also important to follow the order of the steps. Make sure you "use incognito" before running the binary.
+
 See videos at https://www.youtube.com/watch?v=3CPdKMeB0UY and https://www.youtube.com/watch?v=wK0r-TZR7w8 for example.
 
 
