@@ -1,3 +1,5 @@
+# This code is no longer maintained - for a newer implementation see https://github.com/breenmachine/RottenPotatoNG
+
 # RottenPotato
 ## Local Privilege Escalation from Windows Service Accounts to SYSTEM
 
